@@ -3,7 +3,17 @@
 A huge list of SASS variables representing colors. This file was created with
 love, python and beautifulsoup magic.
 
+## Sample
+
+Here is a sample of the colors, part of the index.html which shows all the images.
+
+![Sample](https://raw.githubusercontent.com/ipinak/sass-colors/master/sample.png)
+
 Share & Enjoy!
+
+## Contributing
+
+I might have missed something, so please PR and I will merge (as long as it makes sense)...
 
 # License
 
